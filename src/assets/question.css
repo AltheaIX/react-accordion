@@ -1,0 +1,31 @@
+.container{
+    margin: auto;
+    background-color: bisque;
+    padding-bottom: 15px;
+}
+
+.container h2{
+    text-align: center;
+}
+
+.question {
+    border: aqua solid 2px;
+    margin: 50px;
+}
+
+.question p {
+    margin: 0 50px 0 50px;
+}
+
+.question .title-container {
+    margin: 0 50px 0 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.questions{
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
